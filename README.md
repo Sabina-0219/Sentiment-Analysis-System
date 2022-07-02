@@ -1,5 +1,5 @@
 # Sentiment-Analysis-System
-> A sentiment analysis system using deep learning approach to classify a given review either as a positive review or a negative review.
+> A sentiment analysis system using deep learning approach to classify a user input review either as a positive review or a negative review.
 
 
 ## Table of Contents
