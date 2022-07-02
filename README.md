@@ -13,7 +13,7 @@
 - Model: Multilayer Perceptron Model
 - Datasets: IMDB datasets of 50k movie reviews (25k training data and 25k testing data) 
 - Source of datasets: Standford University AI lab
-- Build a dictionary with Tokenizer that collects and ranks the words in a decreasing order according to their appearing frequency in the datasets
+- Build a dictionary with Tokenizer that collects and ranks the words in a decreasing order according to their appearing frequency in the movie review datasets
 
 
 ## Technologies Used
