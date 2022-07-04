@@ -25,7 +25,10 @@
 
 
 ## Setup
-Make a copy of my notebook to your Colab notebooks folder in the Google Drive
+-> Open my project in Google Colab
+-> Make a copy to your Google Drive Colab notebooks folder. If you have not previously used Colab before, just create an account with your Google account
+-> Run the code
+Remember to change runtime type to GPU.
 
 
 ## Project Status
