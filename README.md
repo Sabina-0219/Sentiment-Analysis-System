@@ -26,10 +26,12 @@
 
 ## Setup
 If you have not previously used Colab before, just create an account with your Google account. And follow these simple steps: <br />
-&nbsp Open my project in Google Colab <br />
-&nbsp Make a copy to your Google Drive Colab notebooks folder <br />
-&nbsp Run the code <br />
+ 1. Open my project in Google Colab <br />
+ 2. Make a copy to your Google Drive Colab notebooks folder <br />
+ 3. Run the code <br />
 Remember to change runtime type to GPU.
+Or <br />
+You can clone and run my project in your local computer with Git and Python installed
 
 
 ## Project Status
